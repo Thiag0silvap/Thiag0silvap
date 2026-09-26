@@ -1,142 +1,139 @@
-# Olá, eu sou Thiago Pereira 👋
+# Thiago Pereira
 
-💻 **Profissional de TI | Desenvolvimento de Sistemas | Automação | Infraestrutura**
+### Desenvolvedor de Sistemas • Automação • Flutter • Python • TI
 
-Atuo na área de TI com experiência prática em **desenvolvimento de sistemas, automação de processos, banco de dados e infraestrutura**.
+Olá! Sou **Thiago Pereira**, profissional de TI com experiência prática em **desenvolvimento de sistemas, automação de processos, dados e infraestrutura**.
 
-No meu dia a dia, desenvolvo soluções para problemas reais de negócio, buscando transformar processos manuais em ferramentas mais eficientes e organizadas.
+Atualmente trabalho como **Assistente de TI nível A na Stik Elásticos**, onde atuo no desenvolvimento e evolução de soluções utilizadas por diferentes setores da empresa, além de participar de atividades de infraestrutura e suporte.
 
-Atualmente, curso **Análise e Desenvolvimento de Sistemas** e continuo aprimorando meus conhecimentos através de projetos profissionais e pessoais.
+Também curso **Análise e Desenvolvimento de Sistemas**, atualmente no **4º semestre**.
 
----
-
-## 🚀 Sobre mim
-
-- 💼 **Assistente de TI nível A** na Stik Elásticos
-- 🎓 **4º semestre de Análise e Desenvolvimento de Sistemas**
-- 💻 Experiência com desenvolvimento de sistemas e aplicações internas
-- ⚙️ Desenvolvimento de automações para processos empresariais
-- 🗄️ Experiência com **SQL Server** e tratamento de dados
-- 🌐 Desenvolvimento web com **JavaScript, HTML e CSS**
-- 📱 Desenvolvimento de aplicações com **Flutter/Dart**
-- 🐍 Automação e desenvolvimento utilizando **Python**
-- 🔀 Versionamento de código com **Git e GitHub**
-- 🌐 Experiência com infraestrutura, redes e ambientes industriais
+Meu foco é transformar necessidades reais em **soluções de software simples, funcionais e sustentáveis**.
 
 ---
 
-## 🛠️ Tecnologias
+## Sobre mim
+
+Minha experiência combina desenvolvimento e infraestrutura.
+
+No ambiente profissional, já trabalhei no desenvolvimento de sistemas internos, automações de processos, aplicações mobile e soluções voltadas para diferentes áreas do negócio.
+
+Alguns exemplos incluem:
+
+- Desenvolvimento de sistemas internos para processos empresariais
+- Automação de rotinas utilizando Python e SQL Server
+- Desenvolvimento de aplicações Flutter
+- Desenvolvimento de interfaces web
+- Tratamento e organização de dados
+- Integração entre sistemas e processos
+- Suporte e infraestrutura de TI
+- Redes e ambientes industriais
+
+Gosto especialmente de projetos em que existe um **problema real para resolver**, e não apenas a implementação de uma tecnologia.
+
+---
+
+## Experiência técnica
 
 ### Desenvolvimento
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+`Python` `Flutter` `Dart` `JavaScript` `HTML` `CSS`
 
-### Banco de Dados
+### Dados
 
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+`SQL Server` `SQL` `Excel`
 
-### Ferramentas
+### Versionamento
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+`Git` `GitHub`
 
 ### Infraestrutura
 
-- 🔥 Sophos
-- 🌐 MikroTik
-- 📡 Redes TCP/IP
-- 📶 Wi-Fi e infraestrutura de redes
-- 🏭 Redes e equipamentos em ambiente industrial
+`MikroTik` `Sophos` `TCP/IP` `Wi-Fi` `Redes Industriais`
 
 ---
 
-## 📌 Projetos
+## Projetos em destaque
 
-### 🧾 Comissys
+### Comissys
 
-Sistema interno desenvolvido para apoiar o processo de **comissões comerciais da empresa**.
+Sistema interno desenvolvido para apoiar o processo de **comissões comerciais** da empresa.
 
-Entre as funcionalidades e processos envolvidos estão:
+O projeto envolve diferentes etapas do processo, incluindo consulta de informações, extratos, consolidação e validação dos dados.
 
-- Consulta de informações comerciais
-- Extratos de comissão
-- Consolidação de dados
-- Validação das informações
-- Apoio ao processo de fechamento das comissões
+**Stack:** Python • PySide6 • SQL Server
 
-**Tecnologias:** Python, PySide6, SQL Server
+> Projeto profissional desenvolvido para ambiente corporativo.
 
 ---
 
-### 📦 StoqX — Semi-acabado
+### StoqX — Semi-acabado
 
-Aplicação desenvolvida para o setor de **Semi-acabado**, auxiliando no controle e organização dos materiais e operações do setor.
+Aplicação desenvolvida para o setor de **Semi-acabado**, com funcionalidades específicas para os processos de controle e movimentação de materiais do setor.
 
-O projeto faz parte do ecossistema StoqX, porém possui funcionalidades e fluxos adaptados às necessidades específicas do processo de Semi-acabado.
+O sistema faz parte do ecossistema StoqX, mas possui uma abordagem própria para atender às necessidades operacionais do setor.
 
-**Tecnologias:** Flutter / Dart
+**Stack:** Flutter • Dart
 
----
-
-### 🚚 StoqX — Expedição / WMS
-
-Aplicação voltada para o setor de **Expedição**, atuando como uma solução WMS para apoiar o controle e movimentação de materiais.
-
-Embora faça parte do mesmo ecossistema StoqX, possui fluxos específicos para as operações da Expedição.
-
-**Tecnologias:** Flutter / Dart
+> Projeto profissional desenvolvido para ambiente corporativo.
 
 ---
 
-### 💰 Plataforma Financeiro
+### StoqX — Expedição / WMS
 
-Desenvolvimento e evolução do frontend de uma plataforma utilizada pelo **setor Financeiro**, trabalhando na implementação de melhorias e interfaces para os processos internos.
+Aplicação voltada para o setor de **Expedição**, funcionando como uma solução WMS para apoiar operações de controle e movimentação de materiais.
 
-**Tecnologias:** HTML, CSS e JavaScript
+Apesar de fazer parte do mesmo ecossistema StoqX, o sistema possui fluxos e funcionalidades adaptados às necessidades da Expedição.
 
----
+**Stack:** Flutter • Dart
 
-### 🔄 Automações e processamento de dados
-
-Desenvolvimento de automações para extração, tratamento e organização de dados utilizados por diferentes setores da empresa.
-
-As soluções integram **Python e SQL Server** e geram arquivos e informações utilizadas em processos operacionais e indicadores.
-
-**Tecnologias:** Python, SQL Server, Excel
+> Projeto profissional desenvolvido para ambiente corporativo.
 
 ---
 
-### 🔧 OficinaApp
+### Plataforma Financeiro
 
-Aplicação desenvolvida em **Flutter** para gerenciamento de processos de uma oficina, como projeto independente.
+Desenvolvimento e evolução do frontend de uma plataforma utilizada pelo **setor Financeiro**, implementando melhorias de interface e funcionalidades para os processos internos.
 
-**Tecnologias:** Flutter / Dart
+**Stack:** HTML • CSS • JavaScript
 
----
-
-## 📚 Atualmente estudando
-
-- Arquitetura e desenvolvimento de software
-- Desenvolvimento de aplicações Flutter
-- Python e automação de processos
-- Banco de dados e SQL
-- Desenvolvimento web
-- Boas práticas de engenharia de software
-- Git e GitHub
+> Projeto profissional desenvolvido para ambiente corporativo.
 
 ---
 
-## 📫 Entre em contato
+### Automações de dados
 
-📧 **Email:** [thiagocot70@gmail.com](mailto:thiagocot70@gmail.com)
+Desenvolvimento de automações para extração, tratamento e organização de dados utilizados por diferentes setores.
 
-💼 **LinkedIn:** [Thiago Pereira](https://www.linkedin.com/in/seu-perfil)
+As soluções utilizam Python e SQL Server para transformar dados do banco em informações e arquivos utilizados nos processos operacionais e indicadores da empresa.
+
+**Stack:** Python • SQL Server • Excel
 
 ---
 
-⭐ Se algum dos meus projetos for interessante para você, fique à vontade para explorar os repositórios.
+### OficinaApp
+
+Aplicação desenvolvida em **Flutter** para organização e gerenciamento de processos de uma oficina.
+
+Projeto independente criado com foco em transformar necessidades de um negócio real em uma solução digital.
+
+**Stack:** Flutter • Dart
+
+---
+
+## Como eu trabalho
+
+```text
+Problema
+   ↓
+Entendimento do processo
+   ↓
+Definição da solução
+   ↓
+Desenvolvimento
+   ↓
+Testes
+   ↓
+Entrega
+   ↓
+Evolução
